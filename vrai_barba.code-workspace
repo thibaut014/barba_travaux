@@ -1,0 +1,23 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveSassCompile.settings.includeItems": [
+			"/src/scss/style.scss",
+			
+		],
+		"liveSassCompile.settings.formats":[
+			// This is Default.
+			{
+				"format": "expanded",
+				"extensionName": ".css",
+				"savePath": "/dist/css",
+			},
+		],
+		"liveServer.settings.port": 5502
+	
+	}
+}
